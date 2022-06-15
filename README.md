@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akash Singh aka akashc1612</h1>
 <h3 align="center">I'm a Student at NMAM Institute of technology.</h3>
+<h5 align="center"><a href="https://akashc.netlify.app/">Website</a></h5>
 
 
 ## 🙋‍♂️ About Me
