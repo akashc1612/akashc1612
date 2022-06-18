@@ -1,5 +1,5 @@
-<center><img src="7LSSAfUG.gif" width="500"></center>
-<center><img src="bUjzyNXW.gif" ></center>
+<center><img src="7LSSAfUG.gif"/></center>
+<center><img src="bUjzyNXW.gif" /></center>
 <h3 align="center">I'm a Student at NMAM Institute of technology.</h3>
 <h5 align="center"><a href="https://akashc.netlify.app/">Website</a></h5>
 
