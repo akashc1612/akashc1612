@@ -1,6 +1,6 @@
 <h3 align="center"><img src="hey.gif"/></h3>
 <h3 align="center">I'm a Student at NMAM Institute of technology.</h3>
-<h5 align="center"><a href="https://akashc.netlify.app/">Website</a></h5>
+<h5 align="center"><a href="https://akashsingh.me/">Website</a></h5>
 
 
 ## 🙋‍♂️ About Me
